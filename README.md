@@ -1,10 +1,10 @@
 ### Olá! Me chamo Daniel David e sou estudante de Técnico em Análise e Desenvolvimento de sistemas
-- 🔭 Atualmente trabalho no meu TCC para a ETEC Alfredo de Barros Santos mas estou disponível para freelas
-- EN_US: Currently I work on my TCC for ETEC Alfredo de Barros Santos but I'm available to freelas
-- 🌱 Atualmente estudo tecnologias de front e back end como Python + Flask e JavaScript
-- EN_US: Currently i'm studying front and back end technologies how python + flask and JavaScript
+- 💬 Atualmente trabalho no meu TCC para a ETEC Alfredo de Barros Santos mas estou disponível para freelas
+- 💬 Currently I work on my TCC for ETEC Alfredo de Barros Santos but I'm available to freelas
+- 😄 Atualmente estudo tecnologias de front e back end como Python + Flask e JavaScript
+- 😄 Currently i'm studying front and back end technologies how python + flask and JavaScript
 - ⚡ Para ver meus projetos feitos me contate por uma das formas de contato abaixo
-- EN_US: for see my projects made, call me on the one of the many contact types that have down here
+- ⚡ for see my projects made, call me on the one of the many contact types that have down here
 <!--
 **DanielDavid48/DanielDavid48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
