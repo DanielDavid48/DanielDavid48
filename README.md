@@ -1,9 +1,5 @@
-### Olá! Me chamo Daniel David e sou estudante de Técnico em Análise e Desenvolvimento de sistemas
-- 💬 Atualmente trabalho no meu TCC para a ETEC Alfredo de Barros Santos mas estou disponível para freelas
-- 💬 Currently I work on my TCC for ETEC Alfredo de Barros Santos but I'm available to freelas
-- 😄 Atualmente estudo tecnologias de front e back end como Python + Flask e JavaScript
-- 😄 Currently i'm studying front and back end technologies how python + flask and JavaScript
-- ⚡ Para ver meus projetos feitos me contate por uma das formas de contato abaixo
+### Hello! I'm Daniel David and I'm currently student of téchnical in Analysis and systems development.
+- 😄 Currently I'm studying front and back end technologies how python + flask and JavaScript.
 - ⚡ for see my projects made, call me on the one of the many contact types that have down here
 <!--
 **DanielDavid48/DanielDavid48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="david-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="david-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="david-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="david-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
   
