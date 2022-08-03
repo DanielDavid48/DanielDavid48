@@ -1,6 +1,7 @@
 ### Hello! I'm Daniel David and I'm currently student of téchnical in Analysis and systems development.
-- 😄 Currently I'm studying front and back end technologies how python + flask and JavaScript.
+- 😄 Currently I'm studying front and back end technologies as python + flask and JavaScript.
 - ⚡ for see my projects made, call me on the one of the many contact types that have down here
+- ⚡ currently I'm teaching how to code in YouTube (https://www.youtube.com/channel/UCfDMTQyJdgc69OHG8ZWsFQA/playlists)
 <!--
 **DanielDavid48/DanielDavid48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
