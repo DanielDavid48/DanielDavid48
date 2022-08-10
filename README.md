@@ -1,5 +1,5 @@
 ### Hello! I'm Daniel David and I'm currently student of téchnical in Analysis and systems development.
-- 😄 Currently I'm studying front and back end technologies as python + flask and JavaScript.
+- 😄 currently I'm studying front and back end technologies as python + flask and JavaScript.
 - ⚡ for see my projects made, call me on the one of the many contact types that have down here
 <!--
 **DanielDavid48/DanielDavid48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="david-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="david-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
   
    ##
